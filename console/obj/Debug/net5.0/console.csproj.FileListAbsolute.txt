@@ -1,0 +1,15 @@
+/Users/newuser/workspace/programming/web/xiquel/poc/console/bin/Debug/net5.0/console.deps.json
+/Users/newuser/workspace/programming/web/xiquel/poc/console/bin/Debug/net5.0/console.runtimeconfig.json
+/Users/newuser/workspace/programming/web/xiquel/poc/console/bin/Debug/net5.0/console.runtimeconfig.dev.json
+/Users/newuser/workspace/programming/web/xiquel/poc/console/bin/Debug/net5.0/console.dll
+/Users/newuser/workspace/programming/web/xiquel/poc/console/bin/Debug/net5.0/ref/console.dll
+/Users/newuser/workspace/programming/web/xiquel/poc/console/bin/Debug/net5.0/console.pdb
+/Users/newuser/workspace/programming/web/xiquel/poc/console/obj/Debug/net5.0/console.csprojAssemblyReference.cache
+/Users/newuser/workspace/programming/web/xiquel/poc/console/obj/Debug/net5.0/console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/newuser/workspace/programming/web/xiquel/poc/console/obj/Debug/net5.0/console.AssemblyInfoInputs.cache
+/Users/newuser/workspace/programming/web/xiquel/poc/console/obj/Debug/net5.0/console.AssemblyInfo.cs
+/Users/newuser/workspace/programming/web/xiquel/poc/console/obj/Debug/net5.0/console.csproj.CoreCompileInputs.cache
+/Users/newuser/workspace/programming/web/xiquel/poc/console/obj/Debug/net5.0/console.dll
+/Users/newuser/workspace/programming/web/xiquel/poc/console/obj/Debug/net5.0/ref/console.dll
+/Users/newuser/workspace/programming/web/xiquel/poc/console/obj/Debug/net5.0/console.pdb
+/Users/newuser/workspace/programming/web/xiquel/poc/console/obj/Debug/net5.0/console.genruntimeconfig.cache
